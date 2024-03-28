@@ -1,0 +1,24 @@
+.corrency{
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+    border-radius: 200px;
+    margin-inline: 10vh;
+    border: 2px solid #000;
+   margin-bottom: 5vh;
+   max-height: 25vh;
+}
+.corrency img {
+    width: 70px;
+    height: auto;
+    margin-right: 50px;
+}
+
+body{
+    background-color: grey;
+}
+
+.searchContainer{
+    display: flex;
+    align-items: center;
+}
